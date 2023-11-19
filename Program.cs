@@ -15,6 +15,9 @@ namespace LearnTask
             dog.Roar();
             cat.Roar();
 
+            Animals catTwo = new Cat("Василий");
+            catTwo.Roar();
+
         }
     }
 
