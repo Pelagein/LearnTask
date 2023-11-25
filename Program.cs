@@ -58,6 +58,7 @@
 
             array = arr.Distinct().ToList();
             foreach (int k in list) { Console.Write(k); }
+
             //foreach (int i in arr)
             //{
             //    Console.Write($"{i} ");
